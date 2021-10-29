@@ -27,13 +27,13 @@
   <a href="https://github.com/adrien-nf/mousetrap-react-docs">
     <img width="400" height="200" src="https://raw.githubusercontent.com/adrien-nf/adrien-nf/master/Project3Logo.png" />
   </a>
-  <a href="https://adrien-nf.github.io/mockets.io/">
+  <a href="https://github.com/adrien-nf/mockets.io">
     <img width="400" height="200" src="https://raw.githubusercontent.com/adrien-nf/adrien-nf/master/mocketsio.png" />
   </a>
   <a href="https://github.com/adrien-nf/mousetrap-react-docs">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=adrien-nf&repo=mousetrap-react-docs&theme=tokyonight" />
   </a>
-  <a href="https://adrien-nf.github.io/mockets.io/">
+  <a href="https://github.com/adrien-nf/mockets.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=adrien-nf&repo=mockets.io&theme=tokyonight" />
   </a>
 </p>
