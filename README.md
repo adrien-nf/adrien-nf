@@ -8,8 +8,7 @@
   <i>Working in Canada 🇨🇦</i>
 </p>
 
-  <h2 align="center">💻</h2>
-<br />
+<h2 align="center">💻</h2>
 
 <p align="center">
   <a href="https://github.com/tylp/memo-draw">
@@ -39,7 +38,8 @@
 </p>
 
 <h2 align="center">🐸</h2>
-Hailing from France, I now work as a web developer in Canada. I'm always looking to improve, and become a better version of myself. Currently upgrading to me 2.0! <br />
+<p>Hailing from France, I now work as a web developer in Canada. I'm always looking to improve, and become a better version of myself. Currently upgrading to me 2.0!</p>
+
 <p>
 
 - 🔭 I’m currently working on [MemoDraw](https://github.com/tylp/memo-draw), a fun drawing game!
