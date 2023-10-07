@@ -50,11 +50,3 @@
 - 👯 I’m looking to collaborate on any project that might be fun!
 
 </p>
-
----
-
-<br />
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrien-nf&theme=radical&show_icons=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrien-nf&layout=compact&theme=radical" width="400" />
-</p>
