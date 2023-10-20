@@ -45,7 +45,6 @@
 
 <p>
 
-- 🔭 I’m currently working on [GitReport](https://github.com/adrien-nf/git-report-web), an application to generate nice reports from your Git history!
 - 🌱 I’m currently learning Korean 🇰🇷.
 - 👯 I’m looking to collaborate on any project that might be fun!
 
