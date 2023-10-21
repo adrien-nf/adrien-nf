@@ -1,7 +1,6 @@
 ![Hi, I'm Adrien NF!](/header.png)
 <p align="center">
   <a href="https://www.linkedin.com/in/adrien-nf"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://adrien-nf.github.io/homepage"><img src="https://img.shields.io/badge/-Homepage-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Homepage" /></a>&nbsp;
 </p>
 <p align="center">
   French web engineer, always on the move to improve the world!<br />
