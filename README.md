@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   French web engineer, always on the move to improve the world!<br />
-  <i>Working in Canada 🇨🇦</i>
+  <i>Working from around the world 🌍</i>
 </p>
 
 <h2 align="center">💻</h2>
